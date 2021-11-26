@@ -1,0 +1,18 @@
+# model name : pyramid, sphere, linear (for tension), cone
+sphere
+# CORRECTION baseline : yes, no ?
+yes
+# on what fraction ?
+0.3
+# ALL : corrected & used lever spring constant in (pN/nm)
+4.8
+# PYR / CONE : half angle (to face for pyr) in degrees
+15.
+# SPHERE / LIN : radius of bead in (um)
+5.
+# LIN : radius of cell in (um)
+5.
+# finite fit ?
+no
+# over what distance ? (nm)
+500.
